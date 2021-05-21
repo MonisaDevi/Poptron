@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_home" type="id" />
+    <item name="nav_search" type="id" />
+    <item name="nav_notification" type="id" />
+    <item name="search" type="id" />
+    <item name="notification" type="id" />
+    <item name="about" type="id" />
+    <item name="navigation" type="id" />
+    <item name="main_container" type="id" />
+</resources>
