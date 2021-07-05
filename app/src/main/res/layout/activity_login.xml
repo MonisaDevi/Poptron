@@ -115,8 +115,6 @@
         android:textAllCaps="false"
         android:textColor="@color/purple_500"
         android:textSize="18sp"
-
-
         />
 
 </RelativeLayout>

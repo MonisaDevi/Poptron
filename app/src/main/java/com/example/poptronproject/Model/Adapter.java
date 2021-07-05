@@ -23,7 +23,6 @@ import java.util.Locale;
 
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
 
-
     Context context;
     List<Articles> articles;
 
